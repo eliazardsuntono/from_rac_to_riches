@@ -1,2 +1,2 @@
-# from_rac_to_riches
-Vietnam AI Stars Project
+# From Rác to Riches
+Vietnam AI Stars Project submission for team J^(2)E
