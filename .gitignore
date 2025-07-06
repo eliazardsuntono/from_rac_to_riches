@@ -1,5 +1,5 @@
-./model/runs
-./model/train.ipynb
-./model/yolov8l.pt
+model/runs/
+model/train.ipynb
+model/yolov8l.pt
 .DS_Store
 .idea/
